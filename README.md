@@ -14,4 +14,4 @@ Il suffit de cliquer [sur ce lien](https://github.com/Digital113/facto-data-cfp/
 
 ## Comment voter pour un sujet ?
 
-Depuis la liste des issues utiliser l'emoji 👍.
+Depuis [la liste des issues](https://github.com/Digital113/facto-data-cfp/issues) utiliser l'emoji 👍.
