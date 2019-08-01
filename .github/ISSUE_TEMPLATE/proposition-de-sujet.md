@@ -25,6 +25,9 @@ assignees: ''
     - [ ] Conférence
     - [ ] REx
     - [ ] Echange/Débat
+* Lieu où je peux faire l'intervention
+    - [ ] Montpellier
+    - [ ] Toulouse
 
 ---
 
