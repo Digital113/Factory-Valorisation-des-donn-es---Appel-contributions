@@ -10,7 +10,7 @@ A venir...
 
 ## Comment proposer un sujet ?
 
-Il suffit de cliquer [sur ce lien](https://github.com/Digital113/Factory-Valorisation-des-donn-es---Appel-contributions/issues/new) et de se laisser porter.
+Il suffit de cliquer [sur ce lien](https://github.com/Digital113/facto-data-cfp/issues/new) et de se laisser porter.
 
 ## Comment voter pour un sujet ?
 
